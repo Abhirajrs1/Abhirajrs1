@@ -1,5 +1,7 @@
+<img align="right" alt="coding" width="400" src="https://i0.wp.com/nulpointerexception.com/wp-content/uploads/2024/02/8219f-code-typing-1.gif?resize=500%2C500&ssl=1">
 <h1 align="center">Hi 👋, I'm ABHIRAJ RS</h1>
 <h3 align="center">A passionate full stack developer</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhirajrs1&label=Profile%20views&color=0e75b6&style=flat" alt="abhirajrs1" /> </p>
 
